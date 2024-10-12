@@ -1,4 +1,4 @@
-```markdown
+
 # Gemini Chatbot Interface
 
 This repository contains a basic frontend for the **Gemini Chatbot**, an AI-powered conversational assistant. The interface is built using HTML, CSS, and JavaScript, and it integrates with Google Gemini models to handle chat-based interactions.
@@ -67,6 +67,3 @@ This repository contains a basic frontend for the **Gemini Chatbot**, an AI-powe
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-This `README.md` provides an overview of the repository contents, explains key features, and offers instructions on setup and usage. Feel free to modify it as needed!
