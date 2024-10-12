@@ -1,4 +1,4 @@
-# MultiModal ChatBot UI with Backend
+<h1 align="center">MultiModal ChatBot UI with Backend</h1>
 
 
 # Gemini Chatbot Interface
