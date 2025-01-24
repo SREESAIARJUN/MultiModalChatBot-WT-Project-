@@ -14,7 +14,7 @@ let userMessage = null;
 let isResponseGenerating = false;
 let currentChatId = null;
 
-const API_KEY = "AIzaSyCFO_wL-z8wip-PgVE9NXblbxMzKP9ggBk";
+const API_KEY = "AIzaSyDikgI7RFIS3fWPf-rLRLeDxvNWW7ymLVU";
 const API_URLS = {
   "gemini-pro": `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-002:generateContent?key=${API_KEY}`,
   "gemini-flash": `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=${API_KEY}`
